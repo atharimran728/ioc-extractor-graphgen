@@ -45,8 +45,7 @@ Outputs are written to a directory named after the file.
 
 ## Why This Matters for SOC Teams
 
-Most IOC extractors vomit garbage. This one doesn’t.
-It cuts junk domains, handles messy encodings, and produces relationship-graphs analysts can pivot on immediately. Faster triage. Cleaner alerts. Better correlation.
+It cuts junk domains, handles messy encodings, and produces relationship graphs analysts can pivot on immediately. Faster triage. Cleaner alerts. Better correlation.
 
 
 
